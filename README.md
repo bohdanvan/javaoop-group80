@@ -27,6 +27,8 @@ Prog.kiev.ua. Java OOP. Группа 80
 
 [Примеры тем курсового проекта](https://docs.google.com/document/d/1pYon-L6ZfPaYPiPBSg0tPbs6HT5B-LKSLjybU08STX8/edit)
 
+[Распределение тем на курсовой проект](https://docs.google.com/spreadsheets/d/1sA6P7zBkxAjjw5tnZirfaO0H1my-YxjcrPDFzWB4uWo/edit?usp=sharing)
+
 ## Примеры решения задач
 
 https://github.com/bohdanvan/javaoop
