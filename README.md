@@ -13,6 +13,8 @@ Prog.kiev.ua. Java OOP. Группа 80
 
 [Java OOP. Богдан. Группа 80. Лекция 5 (19.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3697.0.html)
 
+[Java OOP. Богдан. Группа 80. Лекция 6 (21.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3702.0.html)
+
 ## Запуск проекта локально в Intellij IDEA
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).
